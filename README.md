@@ -10,6 +10,8 @@
 As aulas estão sendo muito boas, bem produtivas e de bom aprendizado.
 
 
+---
 # Conhecimentos
-[comandos Git](url)
-[Codigos em Python](url)
+- [comandos Git](url)
+
+- [Codigos em Python](url)
