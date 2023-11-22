@@ -15,7 +15,7 @@ Neste código em específico ele pega quatro notas dos alunos e cria mais uma co
 
 ##Exemplos
 Antes
-![Imagem]()
+![Imagem](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/Antes_do_Python.PNG)
 
 Depois
-![Imagem]()
+![Imagem](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/Depois_do_Python.PNG)
