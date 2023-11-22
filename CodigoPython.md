@@ -13,7 +13,7 @@ df.to_excel('nota_aluno.xlsx', index=False)
 Este código em python faz uma modificação em um arquivo do excel.
 Neste código em específico ele pega quatro notas dos alunos e cria mais uma coluna com a média final de cada aluno.
 
-## Exemplos
+## Demonstração do código de python em ação
 
 ### Antes
 
