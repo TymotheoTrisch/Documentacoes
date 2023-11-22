@@ -3,7 +3,7 @@
 Este manual percorre uma pequena quantidade de códigos em Git para iniciar um projeto e subir ele para o GitHub.
 
 # Tópicos
-![Tópico 1](https://github.com/TymotheoTrisch/UC10_Documentacao#texto)
+![Tópico 1](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#texto)
 + Mudar o nome da branch
 + Criar uma nova branch
 + Mudar entre branch
