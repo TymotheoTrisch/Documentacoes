@@ -12,7 +12,7 @@ Este manual percorre uma pequena quantidade de códigos em Git para iniciar um p
 + [Verificar o status do repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#Comando-para-verificar-o-status-do-repositório)
 + [Criar a origem remota no GitHub](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-criar-a-origem-remota-no-github)
 + [Buscar e interar com  outro repositório ou branch local](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-buscar-e-interar-com--outro-reposit%C3%B3rio-ou-branch-local)
-+ [Comando para adicionar as alterações local para o repositório](comando-para-adicionar-as-alterações-local-para-o-repositório)
++ [Comando para adicionar as alterações local para o repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-adicionar-as-altera%C3%A7%C3%B5es-local-para-o-reposit%C3%B3rio)
 
 
 ## Comando para inicialização de um repositório
