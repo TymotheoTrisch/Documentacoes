@@ -3,13 +3,13 @@
 Este manual percorre uma pequena quantidade de códigos em Git para iniciar um projeto e subir ele para o GitHub.
 
 # Tópicos
-- [Inicialização de um repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-inicializacao-de-um-repositorio)
+- [Inicialização de um repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-inicialização-de-um-repositório)
 + [Mudar o nome da branch](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#mudar-o-nome-da-branch)
 + [Criar uma nova branch](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-criar-uma-nova-branch)
 + [Mudar entre branch](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-ir-para-uma-outra-branch)
-+ [Adiciona o conteúdo do arquivo ao índice](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-adiciona-o-conteudo-do-arquivo-ao-indice)
++ [Adiciona o conteúdo do arquivo ao índice](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-adiciona-o-conteúdo-do-arquivo-ao-índice)
 + Registrar alterações no repositório
-+ [Verificar o status do repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#Comando-para-verificar-o-status-do-repositorio)
++ [Verificar o status do repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#Comando-para-verificar-o-status-do-repositório)
 + [Criar a origem remota no GitHub](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-criar-a-origem-remota-no-github)
 + [Buscar e interar com  outro repositório ou branch local](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-buscar-e-interar-com-outro-repositório-ou-branch-local)
 
