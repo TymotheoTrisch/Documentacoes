@@ -8,11 +8,11 @@ Este manual percorre uma pequena quantidade de códigos em Git para iniciar um p
 + [Criar uma nova branch](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-criar-uma-nova-branch)
 + [Mudar entre branch](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-ir-para-uma-outra-branch)
 + [Adiciona o conteúdo do arquivo ao índice](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-adiciona-o-conteúdo-do-arquivo-ao-índice)
-+ Registrar alterações no repositório
++ [Registrar alterações no repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-registrar-altera%C3%A7%C3%B5es-no-reposit%C3%B3rio-obs-feito-ap%C3%B3s-o-git-add)
 + [Verificar o status do repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#Comando-para-verificar-o-status-do-repositório)
 + [Criar a origem remota no GitHub](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-criar-a-origem-remota-no-github)
 + [Buscar e interar com  outro repositório ou branch local](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-buscar-e-interar-com--outro-reposit%C3%B3rio-ou-branch-local)
-+ [Comando para adicionar as alterações local para o repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-adicionar-as-altera%C3%A7%C3%B5es-local-para-o-reposit%C3%B3rio)
++ [Adicionar as alterações local para o repositório](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/ComandosGit.md#comando-para-adicionar-as-altera%C3%A7%C3%B5es-local-para-o-reposit%C3%B3rio)
 
 
 ## Comando para inicialização de um repositório
