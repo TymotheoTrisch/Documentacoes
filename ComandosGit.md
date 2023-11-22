@@ -1,3 +1,15 @@
+# Manual de comandos Git
+
+Este manual percorre uma pequena quantidade de códigos em Git para iniciar um projeto e subir ele para o GitHub.
+
+# Tópicos
+![Tópico 1]()
++ Mudar o nome da branch
++ Criar uma nova branch
++ Mudar entre branch
++ Adiciona o conteúdo do arquivo ao índice
++ Registrar alterações no repositório
+
 1. Comando para inicialização de um repositório
     
     ```
@@ -28,7 +40,8 @@
     ```
     git checkout <nome_da_branch>
     ```
-    
+
+## Texto
 5. Comando para adiciona o conteúdo do arquivo ao índice
     
     ```
