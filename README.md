@@ -1,4 +1,8 @@
-# UC10_Documentacao
+# Documentação
+
+Essa documentação trata de assuntos como comandos Git e um código em Python trabalhado em aula com o professor Ricardo
+
+## Informações pessoais
 
 **Nome:**  Tymotheo da Silva Trisch de Oliveira
 
@@ -7,7 +11,7 @@
 **Professor:** Ricardo de Oliveira Pereira
 
 ### Comentários:
-As aulas estão sendo muito boas, bem produtivas e de bom aprendizado.
+As aulas com o professor Ricardo estão sendo muito boas e bem produtivas. Como nunca tivemos acesso antes ao Git e ao GitHub, consegui ter um entendimento muito bom dos conceitos explicados em aula.
 
 
 ---
