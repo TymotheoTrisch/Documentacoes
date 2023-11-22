@@ -12,6 +12,6 @@ As aulas estão sendo muito boas, bem produtivas e de bom aprendizado.
 
 ---
 # Conhecimentos
-- [comandos Git](ComandosGit.md)
+- [Comandos Git](ComandosGit.md)
 
 - [Codigos em Python](CodigoPython.md)
