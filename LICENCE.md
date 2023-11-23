@@ -5,8 +5,8 @@ Neste artigo vamos percorrer algumas licenças mais usadas e mais comuns no GitH
 # O Que são Licenças
 
 Quando criado um projeto e publicado no GitHub, o projeto não tem nada especificamente descrito o que se pode fazer nele ou não. 
-A licensa veio para impor limites nisso, portanto é bem importante avaliar bem em qual licensa usar em seu projeto.
-Se você não colocar nenhuma licensa no seu projeto serão aplicadas as leis padrão de copyright, 
+A licença veio para impor limites nisso, portanto é bem importante avaliar bem em qual licença usar em seu projeto.
+Se você não colocar nenhuma licença no seu projeto serão aplicadas as leis padrão de copyright, 
 o que significa que você detém todos os direitos de seu código-fonte e ninguém poderá reproduzir, 
 distribuir ou criar derivativos de seu trabalho.
 
@@ -22,12 +22,12 @@ A maioria das licenças tem essas declarações:
 # Tipos Principais de Licenças
 
 No mundo das licenças existem dois tipos mais convencionais de licenças open source: **Copyleft** e **Permissivas**.
-Em resumo as Licensas Permissivas tem poucas restrições de uso enquanto as Licensas Copyleft tem mais regras a serem seguidas.
+Em resumo as Licenças Permissivas tem poucas restrições de uso enquanto as Licenças Copyleft tem mais regras a serem seguidas.
 
 ## Licenças Copyleft
-As Licensas Copyleft permitem o uso e distribuição do projeto, mas desde certas condições sejam seguidas.
+As Licenças Copyleft permitem o uso e distribuição do projeto, mas desde certas condições sejam seguidas.
 Dentro do Copyleft, ainda tem mais duas subdivisões de categorias strong (forte) e weak (fraca).
 
- ### - Licenças Copyleft fortes:
+### - Licenças Copyleft fortes:
 
- 
+ As licenças que estão sob a *Copyleft forte*, todas as derivações da aplicação tem que obrigatóriamente estar com a mesma licença
