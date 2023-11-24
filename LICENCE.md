@@ -39,5 +39,14 @@ No caso  da aplicação ser *fraca*, a derivação não necessariamente precisar
 
 ## Licenças Permissivas
 
+Nas *Licenças Permissivas*, seu enfoque é na permissão aos usuários a liberdade de utilizar, modificar e distribuir o software com restrições mínimas. Essas licenças são mais voltadas para incentivar a colaboração e promover o uso e a adoção generalizados de software de código aberto. Em contraponto com as *Licenças Copyleft*, que exigem que o código-fonte dos trabalhos derivados também sejam distribuídos sob os mesmos termos de licença, já as licenças permissivas impõem muito menos restrições aos desenvolvedores e às suas contribuições proprietárias para a base de código do software.
+
+As *Licenças Permissivas* por terem muito pouca restrição, por sua simplicidade, facilidade de uso e requisitos mínimos para desenvolvedores, é uma escolha muito popular tanto para desenvolvedores individuais quanto para organizações.
+
+# Exemplos de Licenças
+
+Agora vamos ver algumas Licenças mais populares no contexto de licenciamento de software e desenvolvimento de código aberto:
+
+### GNU (General Public License ) – Licença Pública Geral, versão 3 (GPLv3)
 
 
