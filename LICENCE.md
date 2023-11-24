@@ -30,4 +30,14 @@ Dentro do Copyleft, ainda tem mais duas subdivisões de categorias strong (forte
 
 ### - Licenças Copyleft fortes:
 
- As licenças que estão sob a *Copyleft forte*, todas as derivações da aplicação tem que obrigatóriamente estar com a mesma licença
+ As aplicações derivadas que estão sob a licença *Copyleft forte*, tem que obrigatóriamente estar com a mesma licença da aplicação principal. Por exemplo, se alguém modifica e distribui a aplicação sob uma licença GPL, ele também deve disponibilizar o código-fonte e licenciar suas modificações sob a mesma licença GPL.
+
+### - Licenças Copyleft fracas:
+
+No caso  da aplicação ser *fraca*, a derivação não necessariamente precisará estar sob a mesma licença, dependendo do tipo de trabalho derivado.
+
+
+## Licenças Permissivas
+
+
+
