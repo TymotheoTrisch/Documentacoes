@@ -47,6 +47,49 @@ As *Licenças Permissivas* por terem muito pouca restrição, por sua simplicida
 
 Agora vamos ver algumas Licenças mais populares no contexto de licenciamento de software e desenvolvimento de código aberto:
 
-### GNU (General Public License ) – Licença Pública Geral, versão 3 (GPLv3)
+## GNU (General Public License ) – Licença Pública Geral, versão 3 (GPLv3)
 
+A GPLv3 é uma opção para quem quer deixar o código aberto mas ao mesmo tempo ter sua segurança. Essa licença é uma das mais **restritivas**.
+
+Seus principais fundamentos:
+
+- O seu código-fonte deve ser **obrigatóriamente** público sempre que uma distribuição da aplicação é feita, ou seja, se você lançar uma aplicação que utiliza essa licença você obrigatóriamente deve torná-lo público.
+- Modificações na aplicação devem sempre serem lançadas com a mesma licença.
+- Mudanças no código-fonte devem ser sempre **documentadas**.
+- Se o material patenteado for usado na criação do software, ela concede aos usuários o direito de usá-lo. Se o usuário processar alguém pelo uso do material patenteado, ele perde o direito de usar o software.
+
+> A licença do seu código-fonte deve ser compatível com a licença do código-fonte aberto ao qual você está vinculado. Por exemplo, se seu código for proprietário, você não terá permissão para usar uma biblioteca sob a licença GPL. É aqui que as pessoas tendem a cometer mais erros.
+
+
+Alguns projetos famosos com esta licença são o [Bash](https://www.gnu.org/software/bash/), [GIMP](https://www.gimp.org/) e o [Linux](https://br-linux.org/) (GPLv2).
+
+## Apache License 2.0
+
+Em relação à licença anterior essa aqui é bem mais flexibilidade aos usuários. Como podemos ver a seguir:
+
+- O código-fonte não precisa ser necessariamente público quando a distribuição do software é feita.
+- As modificações no software podem ser liberadas sob qualquer licença.
+- Mudanças feitas no código-fonte precisam ser documentadas.
+- Oferece a mesma proteção de uso de patente da GPLv3 como vimos acima.
+- Proíbe explicitamente o uso de nomes de marcas registradas encontrados no projeto.
+
+
+Alguns projetos famosos com esta licença são o [Android](https://www.android.com/), [Apache](https://www.apache.org/) e o [Swift](https://developer.apple.com/swift/).
+
+## Distribuição de Software da Berkeley (BSD - Berkeley Software Distribution)
+
+A BSD tem duas versões principais, a de 2 cláusulas e a de 3 cláusulas. TOdas as duas oferecem mais flexibilidade para os usuários do que a Licença Apache 2.0.
+A seguir as regras adotadas por ela:
+
+- O código-fonte não precisa ser necessariamente público quando a distribuição do software é feita.
+- Modificações podem ser lançadas sob qualquer licença.
+- Mudanças feitas no código-fonte não precisam ser documentadas.
+- Não tem nenhuma posição em relação ao uso de patentes.
+- A licença e os direitos de uso precisam ser incluídos na documentação da versão compilada do código-fonte.
+- O BSD 3-clause afirma que os nomes dos autores e colaboradores nãopodem ser usados ​​para promover produtos derivados do software sem permissão explícita.
+
+
+Alguns projetos famosos com esta licença são o [Go](https://golang.org/), [Pure.css](https://purecss.io/) e o [Sentry](https://sentry.io/welcome/).
+
+## 
 
