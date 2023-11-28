@@ -47,7 +47,7 @@ As *Licenças Permissivas* por terem muito pouca restrição, por sua simplicida
 
 Agora vamos ver algumas Licenças mais populares no contexto de licenciamento de software e desenvolvimento de código aberto:
 
-## GNU (General Public License ) – Licença Pública Geral, versão 3 (GPLv3)
+## GNU (General Public License) – Licença Pública Geral, versão 3 (GPLv3)
 
 A GPLv3 é uma opção para quem quer deixar o código aberto mas ao mesmo tempo ter sua segurança. Essa licença é uma das mais **restritivas**.
 
@@ -79,7 +79,7 @@ Alguns projetos famosos com esta licença são o [Android](https://www.android.c
 ## Distribuição de Software da Berkeley (BSD - Berkeley Software Distribution)
 
 A BSD tem duas versões principais, a de 2 cláusulas e a de 3 cláusulas. TOdas as duas oferecem mais flexibilidade para os usuários do que a Licença Apache 2.0.
-A seguir as regras adotadas por ela:
+A seguir as cláusulas adotadas por ela:
 
 - O código-fonte não precisa ser necessariamente público quando a distribuição do software é feita.
 - Modificações podem ser lançadas sob qualquer licença.
@@ -104,8 +104,46 @@ A seguir vai as principais cláusulas:
 
 Um grande projeto com essa licença é o próprio [Training Center](https://github.com/training-center)! Além disso, há outros famosos como o: [jQuery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/) e o [Rails](http://rubyonrails.org/).
 
-
+<br><br>
 Por fim, aqui a baixo está um diagrama que demonstra de forma resumida cada uma das licenças:
 
-![Diagrama sobre as licenças]()
+![Diagrama sobre as licenças](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/DiagramaLicenca.png)
 
+# Comparação e qual escolher
+
+Dentre todas as licenças citadas aqui, vamos dar uma breve repassada para ver as diferenças e qual a mais adequada para o seu projeto.
+Como falado acima existem dois maiores grupos de licenças, as **Copyleft** e as **Permissivas**. Partindo daí, a única licença mais restritiva citada foi a *GNU (General Public License)*, que apesar de ser uma licença bem restritiva, oferece ao proprietário do software uma segurança muito maior contra futuros riscos. Então se você pretende usar essa licença em seus projetos esteja ciente sobre esses pontos:
+
+- Você tem o direito de utilizar o programa para qualquer finalidade.
+- Você tem o direito de modificar o programa, e ter acesso aos códigos fonte.
+- Você tem o direito de copiar e distribuir o programa.
+- Você tem o direito de melhorar o programa, e liberar as suas próprias versões.
+
+Em troca por esses direitos, você tem algumas responsabilidades caso você distribua um programa sob a licença GPL. Essas responsabilidades essas que são designadas para proteger as suas liberdades e as liberdades de outras pessoas:
+
+- Você deve prover uma cópia da licença tipo GPL com o programa, de maneira que os destinatários estejam cientes de seus direitos sob esta licença.
+- Você deve incluir o código fonte, ou tornar o código fonte disponível livremente.
+- Caso você modifique e distribua a versão modificada, você deve licenciar as suas modificações sob a licença GPL (ou uma licença compatível).
+- Você não pode restringir o licenciamento do programa além dos termos especificados na GPL (você não pode transformar um programa liberado sob a licença GPL em um produto proprietário).
+
+<br> <br>
+
+Agora indo para a parte das licenças que são mais liberais, ou seja, com menos restrições, vem as licenças *Apache License 2.0*, *Distribuição de Software da Berkeley (BSD)* e a *MIT License*. 
+
+A licença *BSD*  é mais para aqueles proprietários que querem mais liberdade ao disponibilizar seu software, assim sendo permissiva, a licença coloca restrições mínimas à utilização e distribuição do software licenciado. O principal requisito da licença BSD é que qualquer redistribuição do software deve incluir uma cópia da licença e uma exoneração de responsabilidade. Muitos programadores de software e empresas utilizam esta licença para assegurar que o seu trabalho seja acessível a uma vasta gama de utilizadores, mantendo ao mesmo tempo os direitos do software. Antes de usa-lá como licença do seu software esteja atento aos termos listados a baixo:
+
+- O software pode ser utilizado para qualquer fim, incluindo o uso comercial.
+- O software pode ser modificado e distribuído sem qualquer restrição.
+- O código fonte deve ser incluído em qualquer distribuição do software.
+- Uma cópia da licença deve ser incluída em qualquer distribuição do software.
+- Uma exoneração de responsabilidade deve ser incluída em qualquer distribuição do software.
+
+
+E os benefícios de usar essa licença são:
+Utilização gratuita: A licença BSD permite a utilização gratuita do software.
+Sem restrições na distribuição: A licença permite a modificação e distribuição do software sem qualquer pré-requisito. Isto pode ajudar a aumentar a colaboração e a partilha de melhorias entre os programadores.
+Sem efeito viral: O software que incorpora o código licenciado BSD não deve ser libertado sob a licença BSD.
+Não há necessidade de divulgar o código fonte: A licença BSD não exige que o código fonte seja disponibilizado aos destinatários do software. Isto pode beneficiar empresas que queiram manter o seu código-fonte proprietário.
+Sem protecção de patentes: Algumas versões da licença BSD não incluem cláusulas de protecção de patentes, permitindo aos programadores a utilização de tecnologias patenteadas no seu software licenciado BSD sem receio de litígio de patentes.
+Flexibilidade: A licença BSD é bastante flexível e fácil de cumprir. Permite aos programadores utilizar o software da forma que quiserem, desde que incluam o aviso original de direitos de autor e a exoneração de responsabilidade.
+Maior adopção: A licença BSD leva frequentemente a uma maior adopção de software entre empresas e organizações, devido à sua natureza permissiva.
