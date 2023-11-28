@@ -105,7 +105,7 @@ A seguir vai as principais cláusulas:
 Um grande projeto com essa licença é o próprio [Training Center](https://github.com/training-center)! Além disso, há outros famosos como o: [jQuery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/) e o [Rails](http://rubyonrails.org/).
 
 <br><br>
-Por fim, aqui a baixo está um diagrama que demonstra de forma resumida cada uma das licenças:
+Por fim, aqui abaixo está um diagrama que demonstra de forma resumida cada uma das licenças:
 
 ![Diagrama sobre as licenças](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/DiagramaLicenca.png)
 
@@ -130,7 +130,7 @@ Em troca por esses direitos, você tem algumas responsabilidades caso você dist
 
 Agora indo para a parte das licenças que são mais liberais, ou seja, com menos restrições, vem as licenças *Apache License 2.0*, *Distribuição de Software da Berkeley (BSD)* e a *MIT License*. 
 
-A licença *BSD*  é mais para aqueles proprietários que querem mais liberdade ao disponibilizar seu software, assim sendo permissiva, a licença coloca restrições mínimas à utilização e distribuição do software licenciado. O principal requisito da licença BSD é que qualquer redistribuição do software deve incluir uma cópia da licença e uma exoneração de responsabilidade. Muitos programadores de software e empresas utilizam esta licença para assegurar que o seu trabalho seja acessível a uma vasta gama de utilizadores, mantendo ao mesmo tempo os direitos do software. Antes de usa-lá como licença do seu software esteja atento aos termos listados a baixo:
+A licença *BSD*  é mais para aqueles proprietários que querem mais liberdade ao disponibilizar seu software, assim sendo permissiva, a licença coloca restrições mínimas à utilização e distribuição do software licenciado. O principal requisito da licença BSD é que qualquer redistribuição do software deve incluir uma cópia da licença e uma exoneração de responsabilidade. Muitos programadores de software e empresas utilizam esta licença para assegurar que o seu trabalho seja acessível a uma vasta gama de utilizadores, mantendo ao mesmo tempo os direitos do software. Antes de usa-lá como licença do seu software esteja atento aos termos listados abaixo:
 
 - O software pode ser utilizado para qualquer fim, incluindo o uso comercial.
 - O software pode ser modificado e distribuído sem qualquer restrição.
