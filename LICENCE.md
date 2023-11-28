@@ -51,7 +51,7 @@ Agora vamos ver algumas Licenças mais populares no contexto de licenciamento de
 
 A GPLv3 é uma opção para quem quer deixar o código aberto mas ao mesmo tempo ter sua segurança. Essa licença é uma das mais **restritivas**.
 
-Seus principais fundamentos:
+Suas principais cláusulas:
 
 - O seu código-fonte deve ser **obrigatóriamente** público sempre que uma distribuição da aplicação é feita, ou seja, se você lançar uma aplicação que utiliza essa licença você obrigatóriamente deve torná-lo público.
 - Modificações na aplicação devem sempre serem lançadas com a mesma licença.
@@ -91,5 +91,21 @@ A seguir as regras adotadas por ela:
 
 Alguns projetos famosos com esta licença são o [Go](https://golang.org/), [Pure.css](https://purecss.io/) e o [Sentry](https://sentry.io/welcome/).
 
-## 
+## MIT License
+
+E por último e não mais importante a licença **MIT** que é uma das mais populares por ser a mais permissiva de todas, além de ser a mais famosa. 
+Comparado às demais, ela oferece pouquíssima proteção aos autores do software. 
+A seguir vai as principais cláusulas:
+
+- O código-fonte não precisa ser necessariamente público quando a distribuição do software é feita.
+- Modificações podem ser lançadas sob qualquer licença.
+- Mudanças feitas no código-fonte não precisam ser documentadas.
+- Não tem nenhuma posição em relação ao uso de patentes.
+
+Um grande projeto com essa licença é o próprio [Training Center](https://github.com/training-center)! Além disso, há outros famosos como o: [jQuery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/) e o [Rails](http://rubyonrails.org/).
+
+
+Por fim, aqui a baixo está um diagrama que demonstra de forma resumida cada uma das licenças:
+
+![Diagrama sobre as licenças]()
 
