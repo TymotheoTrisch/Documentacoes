@@ -140,10 +140,10 @@ A licença *BSD*  é mais para aqueles proprietários que querem mais liberdade 
 
 
 E os benefícios de usar essa licença são:
-Utilização gratuita: A licença BSD permite a utilização gratuita do software.
-Sem restrições na distribuição: A licença permite a modificação e distribuição do software sem qualquer pré-requisito. Isto pode ajudar a aumentar a colaboração e a partilha de melhorias entre os programadores.
-Sem efeito viral: O software que incorpora o código licenciado BSD não deve ser libertado sob a licença BSD.
-Não há necessidade de divulgar o código fonte: A licença BSD não exige que o código fonte seja disponibilizado aos destinatários do software. Isto pode beneficiar empresas que queiram manter o seu código-fonte proprietário.
-Sem protecção de patentes: Algumas versões da licença BSD não incluem cláusulas de protecção de patentes, permitindo aos programadores a utilização de tecnologias patenteadas no seu software licenciado BSD sem receio de litígio de patentes.
-Flexibilidade: A licença BSD é bastante flexível e fácil de cumprir. Permite aos programadores utilizar o software da forma que quiserem, desde que incluam o aviso original de direitos de autor e a exoneração de responsabilidade.
-Maior adopção: A licença BSD leva frequentemente a uma maior adopção de software entre empresas e organizações, devido à sua natureza permissiva.
+- **Utilização gratuita**: A licença BSD permite a utilização gratuita do software.
+- **Sem restrições na distribuição**: A licença permite a modificação e distribuição do software sem qualquer pré-requisito. Isto pode ajudar a aumentar a colaboração e a partilha de melhorias entre os programadores.
+- **Sem efeito viral**: O software que incorpora o código licenciado BSD não deve ser libertado sob a licença BSD.
+- **Não há necessidade de divulgar o código fonte**: A licença BSD não exige que o código fonte seja disponibilizado aos destinatários do software. Isto pode beneficiar empresas que queiram manter o seu código-fonte proprietário.
+- **Sem protecção de patentes**: Algumas versões da licença BSD não incluem cláusulas de protecção de patentes, permitindo aos programadores a utilização de tecnologias patenteadas no seu software licenciado BSD sem receio de litígio de patentes.
+- **Flexibilidade**: A licença BSD é bastante flexível e fácil de cumprir. Permite aos programadores utilizar o software da forma que quiserem, desde que incluam o aviso original de direitos de autor e a exoneração de responsabilidade.
+- **Maior adopção**: A licença BSD leva frequentemente a uma maior adopção de software entre empresas e organizações, devido à sua natureza permissiva.
