@@ -43,6 +43,8 @@ Nas *Licenças Permissivas*, seu enfoque é na permissão aos usuários a liberd
 
 As *Licenças Permissivas* por terem muito pouca restrição, por sua simplicidade, facilidade de uso e requisitos mínimos para desenvolvedores, é uma escolha muito popular tanto para desenvolvedores individuais quanto para organizações.
 
+<br>
+
 # Exemplos de Licenças
 
 Agora vamos ver algumas Licenças mais populares no contexto de licenciamento de software e desenvolvimento de código aberto:
@@ -104,15 +106,26 @@ A seguir vai as principais cláusulas:
 
 Um grande projeto com essa licença é o próprio [Training Center](https://github.com/training-center)! Além disso, há outros famosos como o: [jQuery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/) e o [Rails](http://rubyonrails.org/).
 
-<br><br>
+<br>
+
+## Diagrama sobre as licenças
+
 Por fim, aqui abaixo está um diagrama que demonstra de forma resumida cada uma das licenças:
 
 ![Diagrama sobre as licenças](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/DiagramaLicenca.png)
 
+<br>
+
 # Comparação e qual escolher
 
 Dentre todas as licenças citadas aqui, vamos dar uma breve repassada para ver as diferenças e qual a mais adequada para o seu projeto.
-Como falado acima existem dois maiores grupos de licenças, as **Copyleft** e as **Permissivas**. Partindo daí, a única licença mais restritiva citada foi a *GNU (General Public License)*, que apesar de ser uma licença bem restritiva, oferece ao proprietário do software uma segurança muito maior contra futuros riscos. Então se você pretende usar essa licença em seus projetos esteja ciente sobre esses pontos:
+Como falado acima existem dois maiores grupos de licenças, as **Copyleft** e as **Permissivas**. 
+
+<br>
+
+## Licença Copyleft
+
+Partindo daí, a única licença mais restritiva citada foi a *GNU (General Public License)*, que apesar de ser uma licença bem restritiva, oferece ao proprietário do software uma segurança muito maior contra futuros riscos. Então se você pretende usar essa licença em seus projetos esteja ciente sobre esses pontos:
 
 - Você tem o direito de utilizar o programa para qualquer finalidade.
 - Você tem o direito de modificar o programa, e ter acesso aos códigos fonte.
@@ -126,10 +139,13 @@ Em troca por esses direitos, você tem algumas responsabilidades caso você dist
 - Caso você modifique e distribua a versão modificada, você deve licenciar as suas modificações sob a licença GPL (ou uma licença compatível).
 - Você não pode restringir o licenciamento do programa além dos termos especificados na GPL (você não pode transformar um programa liberado sob a licença GPL em um produto proprietário).
 
-<br> <br>
+<br>
+
+## Licenças Permissivas
 
 Agora indo para a parte das licenças que são mais liberais, ou seja, com menos restrições, vem as licenças *Apache License 2.0*, *Distribuição de Software da Berkeley (BSD)* e a *MIT License*. 
 
+### BSD
 A licença *BSD*  é mais para aqueles proprietários que querem mais liberdade ao disponibilizar seu software, assim sendo permissiva, a licença coloca restrições mínimas à utilização e distribuição do software licenciado. O principal requisito da licença BSD é que qualquer redistribuição do software deve incluir uma cópia da licença e uma exoneração de responsabilidade. Muitos programadores de software e empresas utilizam esta licença para assegurar que o seu trabalho seja acessível a uma vasta gama de utilizadores, mantendo ao mesmo tempo os direitos do software. Antes de usa-lá como licença do seu software esteja atento aos termos listados abaixo:
 
 - O software pode ser utilizado para qualquer fim, incluindo o uso comercial.
@@ -147,3 +163,76 @@ E os benefícios de usar essa licença são:
 - **Sem protecção de patentes**: Algumas versões da licença BSD não incluem cláusulas de protecção de patentes, permitindo aos programadores a utilização de tecnologias patenteadas no seu software licenciado BSD sem receio de litígio de patentes.
 - **Flexibilidade**: A licença BSD é bastante flexível e fácil de cumprir. Permite aos programadores utilizar o software da forma que quiserem, desde que incluam o aviso original de direitos de autor e a exoneração de responsabilidade.
 - **Maior adopção**: A licença BSD leva frequentemente a uma maior adopção de software entre empresas e organizações, devido à sua natureza permissiva.
+
+<br> <br>
+
+### Apache Licence 2.0
+Parecida com a Licença *BSD*, essa licença tem algumas regras como: permitem livre uso, redistribuição e alteração, sem exigir reciprocidade – ou seja, o código pode ser reaproveitado em projetos proprietários, se for esse o interesse de algum desenvolvedor. <br>
+Mas ela tem algumas características específicas que distinguem. Começando pela questão das patentes de software, que fica explícita na sua terceira cláusula, esclarecendo (de forma bastante extensa e específica) que todo contribuidor de código para o software em questão concede também uma licença mundial e perpétua para uso de suas patentes que sejam necessárias para uso ou distribuição do código contribuído por ele em combinação com o software em questão. <br>
+E há outros diferenciais em relação à BSD, como a possibilidade de ser adotada por referência (sem necessidade de reprodução do texto da licença) e a interessante possibilidade de incluir um arquivo chamado NOTICE, junto aos arquivos do projeto, cujo conteúdo (informacional e sem alterar as condições de licenciamento) precisará ser mantido e redistribuído junto com o código.
+
+Antes de utilizar essa licença, deixo alguns pontos a observar:
+
+1. Permissões
+	* Uso comercial
+	* Distribuição
+	* Modificação
+	* Uso de patente
+	* Uso privado
+
+2. Condições
+	* Licença e aviso de direitos autorais
+	* Mudanças na licença deverão ser documentadas
+	* Limitações
+
+3. Responsabilidade
+	* Uso da marca registrada
+	* Garantia
+
+<br>
+
+Resumindo esse é uma licença que se caso você queira que seu projeto atraia grandes empresas e que utilize uma licença de patente expressa de todos os colaboradores, essa licença seria a mais apropriada para você.
+
+### MIT Licence
+
+Por ultimo temos a licença *MIT* que oferece aos desenvolvedores e organizações uma opção de licenciamento permissiva e não restritiva que incentiva a troca aberta de código. Ele permite que indivíduos, organizações e usuários usem, modifiquem, distribuam e sublicenciem livremente o software, sem preocupação com royalties ou restrições legais significativas. Uma das principais razões para a sua popularidade é a simplicidade da licença, que consiste numa breve declaração seguida de um conjunto conciso de condições e requisitos.
+
+Ao distribuir software sob a licença MIT, existem termos e condições específicos que se aplicam. Estes termos garantem que o detentor dos direitos autorais esteja protegido, ao mesmo tempo que incentivam a colaboração, a inovação e o compartilhamento de conhecimento. Os principais aspectos da licença incluem:
+
+Conceder permissão para usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e vender cópias do software, desde que o aviso de direitos autorais e o texto da licença do MIT permaneçam intactos.
+
+Um benefício importante da licença *MIT* é sua compatibilidade com outras licenças, ou seja, se algum desenvolvedor copiar o seu software licenciado sob a licença MIT podem ser integrados a projetos usando licenças diferentes. Outra vantagem é que a licença pode ser sublicenciada, o que significa que um projeto que utiliza componentes licenciados pelo *MIT*, pode ser usado com outra licença para seu projeto geral. Além disso, os desenvolvedores podem incorporar código licenciado pelo MIT em projetos proprietários e manter uma licença diferente para o código proprietário.
+
+<br>
+E por fim, antes de utlizar essa licença no seu código esteja atento aos seguntes pontos específicos:
+
+1. Pontos permitido
+	* Uso comercial
+		* O software e seus derivados podem ser utilizados para fins comerciais.
+	* Modificação
+		* É permitido a modificação do software.
+	* Distribuição
+		* É permitido a distribuição do software.
+	* Sublicenciamento
+		* Você pode conceder uma sublicença, podendo assim modificar e distribuir o software a terceiros.
+2. Ponto proibitivo
+	* Responsabilidades assegurada
+		* O software é distribuído sem garantia.
+		* Autor e licença não podem ser responsabilizados por possíveis perdas ou danos pelo uso do software.
+3. Utilização
+	* Devemos criar uma arquivo LICENSE e nele incluir o texto referente a licença MIT, atentando ao fato de incluir as duas informações necessárias, sendo:
+		* Ano
+		* Nome completo do titular da licença.
+
+
+<br> <br>
+
+Resumindo se você quer que seu projeto seja usado como dependência por outros projetos? Provavelmente, é melhor usar a licença mais popular e relevante em sua comunidade. Por exemplo, a MIT.
+
+## Tutorial de como adicionar uma licença ao seu projeto
+
+
+
+# Conclusão
+
+E chegamos ao fim do artigo, aqui falamos sobre os tipos de licenças, demos alguns exemplos de licenças mais usadas, e por ultimo fizemos uma comparação e demos dicas de qual utilizar em seu projeto. 
