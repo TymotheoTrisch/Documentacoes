@@ -145,6 +145,8 @@ Em troca por esses direitos, você tem algumas responsabilidades caso você dist
 
 Agora indo para a parte das licenças que são mais liberais, ou seja, com menos restrições, vem as licenças *Apache License 2.0*, *Distribuição de Software da Berkeley (BSD)* e a *MIT License*. 
 
+<br>
+
 ### BSD
 A licença *BSD*  é mais para aqueles proprietários que querem mais liberdade ao disponibilizar seu software, assim sendo permissiva, a licença coloca restrições mínimas à utilização e distribuição do software licenciado. O principal requisito da licença BSD é que qualquer redistribuição do software deve incluir uma cópia da licença e uma exoneração de responsabilidade. Muitos programadores de software e empresas utilizam esta licença para assegurar que o seu trabalho seja acessível a uma vasta gama de utilizadores, mantendo ao mesmo tempo os direitos do software. Antes de usa-lá como licença do seu software esteja atento aos termos listados abaixo:
 
@@ -164,11 +166,13 @@ E os benefícios de usar essa licença são:
 - **Flexibilidade**: A licença BSD é bastante flexível e fácil de cumprir. Permite aos programadores utilizar o software da forma que quiserem, desde que incluam o aviso original de direitos de autor e a exoneração de responsabilidade.
 - **Maior adopção**: A licença BSD leva frequentemente a uma maior adopção de software entre empresas e organizações, devido à sua natureza permissiva.
 
-<br> <br>
+<br>
 
 ### Apache Licence 2.0
 Parecida com a Licença *BSD*, essa licença tem algumas regras como: permitem livre uso, redistribuição e alteração, sem exigir reciprocidade – ou seja, o código pode ser reaproveitado em projetos proprietários, se for esse o interesse de algum desenvolvedor. <br>
+
 Mas ela tem algumas características específicas que distinguem. Começando pela questão das patentes de software, que fica explícita na sua terceira cláusula, esclarecendo (de forma bastante extensa e específica) que todo contribuidor de código para o software em questão concede também uma licença mundial e perpétua para uso de suas patentes que sejam necessárias para uso ou distribuição do código contribuído por ele em combinação com o software em questão. <br>
+
 E há outros diferenciais em relação à BSD, como a possibilidade de ser adotada por referência (sem necessidade de reprodução do texto da licença) e a interessante possibilidade de incluir um arquivo chamado NOTICE, junto aos arquivos do projeto, cujo conteúdo (informacional e sem alterar as condições de licenciamento) precisará ser mantido e redistribuído junto com o código.
 
 Antes de utilizar essa licença, deixo alguns pontos a observar:
@@ -189,9 +193,9 @@ Antes de utilizar essa licença, deixo alguns pontos a observar:
 	* Uso da marca registrada
 	* Garantia
 
-<br>
-
 Resumindo esse é uma licença que se caso você queira que seu projeto atraia grandes empresas e que utilize uma licença de patente expressa de todos os colaboradores, essa licença seria a mais apropriada para você.
+
+<br>
 
 ### MIT Licence
 
@@ -224,14 +228,30 @@ E por fim, antes de utlizar essa licença no seu código esteja atento aos segun
 		* Ano
 		* Nome completo do titular da licença.
 
-
-<br> <br>
-
 Resumindo se você quer que seu projeto seja usado como dependência por outros projetos? Provavelmente, é melhor usar a licença mais popular e relevante em sua comunidade. Por exemplo, a MIT.
 
 ## Tutorial de como adicionar uma licença ao seu projeto
 
+Agora para você adicionar uma dessas licenças citadas acima ou qualquer outra, basta seguir esses passos a seguir:
 
+Se você ainda não criou o repositório desse projeto, na página inicial de criação de repositório o GitHub vai te dar um menu com várias opções de Licenças para você escolher.
+
+![Licença no GitHub](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/GitHubLicencasOpcao.png)
+
+Se seu projeto já existe, você precisa criar no root do repositório um arquivo com o nome LICENSE.
+
+Aqui você tem a opção de:
+
+1. Clicar em Choose a license template, que vai te levar para uma página com várias opções de licenças para você escolher OU
+2. Você pode ir no site da licença de sua escolha, copiar a licença e colar nesse arquivo LICENSE.
+
+![Criar arquivo da licença](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/NomeLicenca.png)
+
+Não importa o método que você escolheu, se tudo estiver certo, quando você voltar para a página principal do repositório, vai ver que sua licença está disponível na sessão About, na coluna direita do repo, com o ícone de balança:
+
+![Sobre a licença do projeto](https://github.com/TymotheoTrisch/UC10_Documentacao/blob/main/SobreLicencaEscolhida.png)
+
+Como pessoa usuária, se você tem a intenção de editar e distribuir um projeto open source, não esqueça de ler a licença antes para não correr o risco de ter problemas no futuro!
 
 # Conclusão
 
