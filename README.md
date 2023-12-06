@@ -19,3 +19,5 @@ As aulas com o professor Ricardo estão sendo muito boas e bem produtivas. Como 
 - [Comandos Git](ComandosGit.md)
 
 - [Codigos em Python](CodigoPython.md)
+
+- [Licenças](LICENCE.md)
